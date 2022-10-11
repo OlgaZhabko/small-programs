@@ -49,5 +49,3 @@ elif m<n and m%2==1:
             count+=1
         
 print_matrix(res, 5)
-
-print('END')
